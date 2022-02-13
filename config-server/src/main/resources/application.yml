@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: file://${user.home}/workspace/spring-cloud-config-sandbox/config-repo
+          uri: https://github.com/b1a9id/config-repo.git
